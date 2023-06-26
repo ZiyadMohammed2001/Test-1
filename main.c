@@ -1,4 +1,5 @@
 int main (void)
 {
-    int x = 10;
+   
+    int s = 20;
 }
