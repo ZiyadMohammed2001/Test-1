@@ -1,5 +1,7 @@
 int main (void)
 {
    
-    int s = 20;
+    int X = 10;
+    int Y = 20;
+    int Z = 30;
 }
